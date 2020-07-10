@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Royal tern","category":"Indigo"},
+{"id":2,"name":"Fringe-eared oryx","category":"Green"},
+{"id":3,"name":"Raccoon, common","category":"Red"},
+{"id":4,"name":"Pied avocet","category":"Pink"},
+{"id":5,"name":"Civet, small-toothed palm","category":"Fuscia"},
+{"id":6,"name":"Penguin, galapagos","category":"Green"},
+{"id":7,"name":"Golden eagle","category":"Red"},
+{"id":8,"name":"Stanley bustard","category":"Maroon"},
+{"id":9,"name":"Hartebeest, red","category":"Purple"},
+{"id":10,"name":"Deer, savannah","category":"Turquoise"},
+{"id":11,"name":"White spoonbill","category":"Green"},
+{"id":12,"name":"Otter, cape clawless","category":"Indigo"},
+{"id":13,"name":"Red-necked phalarope","category":"Green"},
+{"id":14,"name":"Wambenger, red-tailed","category":"Mauv"},
+{"id":15,"name":"Wild boar","category":"Violet"},
+{"id":16,"name":"Booby, blue-faced","category":"Red"},
+{"id":17,"name":"Gecko, barking","category":"Blue"},
+{"id":18,"name":"South American sea lion","category":"Teal"},
+{"id":19,"name":"Seal, northern elephant","category":"Aquamarine"},
+{"id":20,"name":"Paddy heron (unidentified)","category":"Green"}
+]
+}
